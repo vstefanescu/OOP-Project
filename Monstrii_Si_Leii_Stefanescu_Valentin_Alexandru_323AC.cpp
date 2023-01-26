@@ -224,7 +224,7 @@ unsigned int loading(string db1[max], string db2[max])
         cout << "Press any key to continue..." << endl;
 
         getch();
-        system("cls");
+        //system("cls");
 
         return index;
     }
@@ -245,7 +245,7 @@ unsigned int generateFirstCSV(string db1[max], string db2[max], string figure[fi
         cout << "Press any key to continue..." << endl;
 
         getch();
-        system("cls");
+        //system("cls");
 
         return index;
     }
